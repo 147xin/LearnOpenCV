@@ -33,6 +33,7 @@ int main(int argc, const char* argv[])
     cv::waitKey(0);
     
     
+    
     cv::imwrite("/Users/hix/XcodeProjects/LearnOpenCV/LearnOpenCV/output.bmp", result);
     return 0;
 }
